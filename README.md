@@ -1,4 +1,4 @@
-# Microprocessor-System-Design-Laboratory
+# :art: Microprocessor-System-Design-Laboratory
 마이크로프로세서 설계 실험 과목 프로젝트
 # :rocket: 설계 목표
 
